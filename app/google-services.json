@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306521977951",
+    "project_id": "testfirebase-d5b43",
+    "storage_bucket": "testfirebase-d5b43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306521977951:android:04b7670a906550d68cd7ea",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh3-ejHJA_A_yIT88m8QQLJVz5vXt7OtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
